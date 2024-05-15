@@ -1,0 +1,6 @@
+{
+  "project_id": "DEIN_PROJECT_ID_HIER",
+  "location": "europe-west3",
+  "calendar_id": "primary",
+  "telegram_token": "DEIN_TELEGRAM_BOT_TOKEN_HIER"
+}
