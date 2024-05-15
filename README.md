@@ -140,4 +140,4 @@ Der Bot wird auf Telegram-Nachrichten reagieren, die mit `/paul` beginnen. Du ka
 
 ## Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Informationen findest du in der [LICENSE](LICENSE)-Datei.
+Dieses Projekt ist unter der GNU-Lizenz (Version 3, 29 June 2007) lizenziert. Weitere Informationen findest du in der [LICENSE](LICENSE.html)-Datei.
